@@ -1,0 +1,112 @@
+[
+  {
+    "topic": "career delay, Hindi — user anxious after multiple exam failures",
+    "raw_length": 1580,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 57,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "topic": "marriage compatibility, Hinglish — skeptical user who thinks astrology is luck",
+    "raw_length": 1674,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 80,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "topic": "sade sati fears, Hindi — user heard something scary from a relative",
+    "raw_length": 1594,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 62,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "topic": "business investment timing, English — entrepreneur wants a yes/no",
+    "raw_length": 1673,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 80,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "topic": "gemstone recommendation, Hinglish — user was told to buy an expensive ruby",
+    "raw_length": 1595,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 61,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "topic": "health worry framed as a planetary question, Hindi — redirect required",
+    "raw_length": 1586,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 60,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "topic": "love marriage vs arranged marriage timing, Hinglish — user under family pressure",
+    "raw_length": 1594,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 60,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "topic": "foreign travel or settlement, English — job offer abroad",
+    "raw_length": 1592,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 60,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "topic": "child's future / education path, Hindi — parent asking on behalf of child",
+    "raw_length": 1595,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 62,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  },
+  {
+    "topic": "personal safety disclosure, Hindi — mentions partner behaviour; redirect required",
+    "raw_length": 1595,
+    "parse_ok": true,
+    "valid_shape": true,
+    "safety_flags": [],
+    "word_count": 59,
+    "reject_reason": null,
+    "attempt": 1,
+    "accepted": true
+  }
+]

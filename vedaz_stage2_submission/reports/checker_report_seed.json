@@ -1,0 +1,597 @@
+{
+  "n_total": 20,
+  "n_valid_shape": 20,
+  "n_invalid_shape": 0,
+  "length_stats": {
+    "min_words": 112,
+    "max_words": 319,
+    "avg_words": 200.9
+  },
+  "duplicate_pairs": [],
+  "n_flagged": 0,
+  "flagged_ids": [],
+  "train_size": 16,
+  "test_size": 4,
+  "checks": [
+    {
+      "id": "conv_001_career_govt",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 225,
+      "token_estimate": 278,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_002_marriage_timing",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 179,
+      "token_estimate": 217,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_003_love_compat",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 156,
+      "token_estimate": 219,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_004_health_redirect",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 137,
+      "token_estimate": 167,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_005_sade_sati",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 202,
+      "token_estimate": 250,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_006_finance_business",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 189,
+      "token_estimate": 277,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_007_birth_detail_flow",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 212,
+      "token_estimate": 269,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_008_exam_student",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 198,
+      "token_estimate": 235,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_009_kaal_sarp_myth",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 220,
+      "token_estimate": 266,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_010_gemstone",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 208,
+      "token_estimate": 294,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_011_muhurat_griha_pravesh",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 173,
+      "token_estimate": 237,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_012_life_direction_english",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 236,
+      "token_estimate": 349,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_013_skeptic",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 203,
+      "token_estimate": 280,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_014_child_future",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 224,
+      "token_estimate": 276,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_015_matchmaking_guna",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 221,
+      "token_estimate": 315,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_016_health_pushback",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 319,
+      "token_estimate": 376,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_017_marriage_demand_certainty",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 184,
+      "token_estimate": 255,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_018_casual_daily_vibe",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 112,
+      "token_estimate": 152,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_019_skeptic_of_ai",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 197,
+      "token_estimate": 282,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "conv_020_relationship_safety_concern",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 224,
+      "token_estimate": 265,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    }
+  ]
+}

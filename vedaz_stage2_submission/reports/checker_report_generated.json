@@ -1,0 +1,319 @@
+{
+  "n_total": 10,
+  "n_valid_shape": 10,
+  "n_invalid_shape": 0,
+  "length_stats": {
+    "min_words": 90,
+    "max_words": 191,
+    "avg_words": 156.6
+  },
+  "duplicate_pairs": [],
+  "n_flagged": 2,
+  "flagged_ids": [
+    "(no id)",
+    "(no id)"
+  ],
+  "train_size": 8,
+  "test_size": 2,
+  "checks": [
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 163,
+      "token_estimate": 219,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 152,
+      "token_estimate": 212,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": true,
+          "evidence": [
+            "die"
+          ]
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [
+        "fear_prediction"
+      ],
+      "llm_judge": null,
+      "is_flagged": true
+    },
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 160,
+      "token_estimate": 216,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 149,
+      "token_estimate": 216,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 171,
+      "token_estimate": 235,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 90,
+      "token_estimate": 129,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 134,
+      "token_estimate": 195,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 171,
+      "token_estimate": 249,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 191,
+      "token_estimate": 280,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": false,
+          "evidence": [],
+          "note": null
+        }
+      },
+      "keyword_triggered": [],
+      "llm_judge": null,
+      "is_flagged": false
+    },
+    {
+      "id": "(no id)",
+      "valid_shape": true,
+      "shape_error": null,
+      "word_count": 185,
+      "token_estimate": 273,
+      "keyword_flags": {
+        "fear_prediction": {
+          "matched": false,
+          "evidence": []
+        },
+        "guaranteed_outcome": {
+          "matched": false,
+          "evidence": []
+        },
+        "fear_based_remedy_sale": {
+          "matched": false,
+          "evidence": []
+        },
+        "missing_redirect": {
+          "matched": true,
+          "evidence": [
+            "loan",
+            "debt"
+          ],
+          "note": "user raised a serious topic with no matching redirect language in the reply"
+        }
+      },
+      "keyword_triggered": [
+        "missing_redirect"
+      ],
+      "llm_judge": null,
+      "is_flagged": true
+    }
+  ]
+}
